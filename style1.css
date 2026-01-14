@@ -1,0 +1,14 @@
+body {
+    font-family: sans-serif;
+    
+}
+
+
+.yes{
+    float: right;
+    background-color:lightblue ;
+}
+
+span{
+    color:orange;
+}
